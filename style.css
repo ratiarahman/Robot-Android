@@ -594,10 +594,12 @@
 
 }
 .foot {
-  	width: 30px;
-	height: 50px;
-	border-radius: 0 0 100px 100px;
-  	background-color: #5f93e8;
+  	width: 0;
+	height: 0;
+	/*border-radius: 0 0 100px 100px;*/
+  	/*background-color: #5f93e8;*/
+  	
+      display: hidden;
  
 }
 
@@ -622,34 +624,40 @@
   0% {
     top: 0;
     /*background-color: #bbceff;*/
+    /*display: hidden;*/
   }
   10%, 20% {
     top: 90px;
      /*background-color: #bbceff;*/
+     /*display: hidden;*/
   }
   30% {
     top: 110px;
      /*background-color: #bbceff;*/
+     /*display: hidden;*/
   }
   40% {
-    top: 110px;
-     background-color: #bbceff;
+    top: 150px;
+     /*background-color: #bbceff;*/
+      
   }
   50% {
-    top: 110px;
-     background-color: #bbceff;
+    top: 150px;
+     /*background-color: #bbceff;*/
+  
   }
   60% {
     top: 110px;
-     background-color: #bbceff;
+     /*background-color: #bbceff;*/
   }
   70%,80% {
     top: 110px;
-     background-color: #bbceff;
+     /*background-color: #bbceff;*/
   }
   90%, 100% {
     top: 0;
      /*background-color: #bbceff;*/
+     display: none;
   }
 }
 
@@ -707,3 +715,7 @@
   	margin-left: 100px;
   	margin-top: -50px;
  }
+h1{
+	text-align: center;
+	margin-top: 35%;
+}
