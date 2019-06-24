@@ -135,7 +135,10 @@
   0%, 10% {
     top: -33px;
   }
-  20%, 80% {
+  20%, 30%{
+  	top: 0px;
+  }
+  40%, 80% {
     top: 0px;
     background-color: #bbceff;
   }
@@ -586,22 +589,17 @@
 
 #robot #legs {
   position: absolute;
-  top: 40%;
+  top: 45%;
   left: 50%;
 
 }
 .foot {
   	width: 30px;
-	height: 100px;
+	height: 50px;
 	border-radius: 0 0 100px 100px;
   	background-color: #5f93e8;
+ 
 }
-/*#left{
-	margin-left: 15px;
-}
-#right{
-	margin-right: 15px;
-}*/
 
  #leftleg .foot{
   position: absolute;
@@ -625,12 +623,13 @@
     top: 0;
     /*background-color: #bbceff;*/
   }
-  10%, 50% {
-    top: 0px;
+  10%, 20% {
+    top: 90px;
      /*background-color: #bbceff;*/
   }
-  /*30% {
+  30% {
     top: 110px;
+     /*background-color: #bbceff;*/
   }
   40% {
     top: 110px;
@@ -639,16 +638,16 @@
   50% {
     top: 110px;
      background-color: #bbceff;
-  }*/
+  }
   60% {
     top: 110px;
      background-color: #bbceff;
   }
-  70% {
+  70%,80% {
     top: 110px;
      background-color: #bbceff;
   }
-  80%, 90%, 100% {
+  90%, 100% {
     top: 0;
      /*background-color: #bbceff;*/
   }
@@ -658,20 +657,31 @@
   0% {
     top: 0;
   }
-  10%, 20%, 30% {
+  10%, 20%{
     top: 90px;
+  }
+  30% {
+  	top: 110px;
   }
   40% {
     top: 110px;
+     background-color: #bbceff;
   }
   50% {
     top: 110px;
+     background-color: #bbceff;
   }
   60% {
     top: 110px;
+     background-color: #bbceff;
   }
-  70%, 80%, 90%, 100% {
+  70%,80% {
+    top: 110px;
+     background-color: #bbceff;
+  }
+  90%, 100% {
     top: 0;
+     /*background-color: #bbceff;*/
   }
 }
 
