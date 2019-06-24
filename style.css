@@ -21,6 +21,7 @@
   }
   20%, 80% {
     top: -13px;
+    background-color: #F4D03F;
   }
   90%, 100% {
     top: 0;
@@ -32,6 +33,7 @@
   }
   20%, 80% {
     top: -13px;
+    background-color: #F4D03F;
   }
   90%, 100% {
     top: 0;
@@ -123,6 +125,7 @@
   }
   20%, 80% {
     top: 20px;
+    background-color: #bbceff;
   }
   90%, 100% {
     top: 33px;
@@ -134,6 +137,7 @@
   }
   20%, 80% {
     top: 0px;
+    background-color: #bbceff;
   }
   90%, 100% {
     top: -33px;
@@ -239,55 +243,55 @@
     top: 20px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 0 0 100px 100px;
+    background-color: #ff707e;
   }
   30% {
     left: -50px;
     top: 50px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 0 0 100px 100px;
+    background-color: #ff707e;
   }
   40% {
     left: -50px;
     top: 70px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 0 0 100px 100px;
+    background-color: #ff707e;
   }
   50% {
     left: -50px;
     top: 30px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 0 0 100px 100px;
+    background-color: #ff707e;
   }
   60% {
     left: -50px;
     top: 80px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 0 0 100px 100px;
+    background-color: #ff707e;
   }
   70% {
     left: -50px;
     top: 30px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 0 0 100px 100px;
+    background-color: #ff707e;
   }
   80%, 90% {
     left: -50px;
     top: 80px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
+    border-radius: 0 0 100px 100px;
     background-color: #5f93e8;
   }
   100% {
@@ -373,56 +377,56 @@
     bottom: -30px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 100px 100px 0 0;
+    background-color: #ffc0a1;
   }
   30% {
     left: -50px;
     bottom: -10px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 100px 100px 0 0;
+    background-color: #ffc0a1;
   }
   40% {
     left: -50px;
     bottom: -40px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 100px 100px 0 0;
+    background-color: 	#ffc0a1;
   }
   50% {
     left: -50px;
     bottom: -10px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 100px 100px 0 0;
+    background-color: 	#ffc0a1;
   }
   60% {
     left: -50px;
     bottom: -40px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 100px 100px 0 0;
+    background-color: 	#ffc0a1;
   }
   70% {
     left: -50px;
     bottom: -10px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 100px 100px 0 0;
+    background-color: 	#ffc0a1;
   }
   80%, 90% {
     left: -50px;
     bottom: -40px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 100px 100px 0 0;
+    background-color: 	#5f93e8;
   }
   100% {
     left: 0;
@@ -456,55 +460,55 @@
     top: 20px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 0 0 100px 100px;
+    background-color: #ff707e;
   }
   30% {
     right: -50px;
     top: 50px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 0 0 100px 100px;
+    background-color: #ff707e;
   }
   40% {
     right: -50px;
     top: 70px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 0 0 100px 100px;
+    background-color: #ff707e;
   }
   50% {
     right: -50px;
     top: 30px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 0 0 100px 100px;
+    background-color: #ff707e;
   }
   60% {
     right: -50px;
     top: 80px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 0 0 100px 100px;
+    background-color: #ff707e;
   }
   70% {
     right: -50px;
     top: 30px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 0 0 100px 100px;
+    background-color: #ff707e;
   }
   80%, 90% {
     right: -50px;
     top: 80px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
+    border-radius: 0 0 100px 100px;
     background-color: #5f93e8;
   }
   100% {
@@ -523,55 +527,55 @@
     bottom: -30px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 100px 100px 0 0;
+    background-color: #ffc0a1;
   }
   30% {
     right: -50px;
     bottom: -10px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 100px 100px 0 0;
+    background-color: #ffc0a1;
   }
   40% {
     right: -50px;
     bottom: -40px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 100px 100px 0 0;
+    background-color: #ffc0a1;
   }
   50% {
     right: -50px;
     bottom: -10px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 100px 100px 0 0;
+    background-color: #ffc0a1;
   }
   60% {
     right: -50px;
     bottom: -40px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 100px 100px 0 0;
+    background-color: #ffc0a1;
   }
   70% {
     right: -50px;
     bottom: -10px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
-    background-color: #5f93e8;
+    border-radius: 100px 100px 0 0;
+    background-color: #ffc0a1;
   }
   80%, 90% {
     right: -50px;
     bottom: -40px;
     height: 60px;
     width: 30px;
-    border-radius: 100px;
+    border-radius: 100px 100px 0 0;
     background-color: #5f93e8;
   }
   100% {
@@ -579,3 +583,117 @@
     bottom: 5px;
   }
 }
+
+#robot #legs {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+
+}
+.foot {
+  	width: 30px;
+	height: 100px;
+	border-radius: 0 0 100px 100px;
+  	background-color: #5f93e8;
+}
+/*#left{
+	margin-left: 15px;
+}
+#right{
+	margin-right: 15px;
+}*/
+
+ #leftleg .foot{
+  position: absolute;
+  top: 30px;
+  left: 0;
+  margin-left: 15px;
+  -webkit-animation: 5s leftfoot linear forwards;
+          animation: 5s leftfoot linear forwards;
+}
+ #rightleg .foot{
+  position: absolute;
+  top: 30px;
+  right: 0;
+  margin-right: 15px;
+  -webkit-animation: 5s rightfoot linear forwards;
+          animation: 5s rightfoot linear forwards;
+}
+
+@keyframes leftfoot {
+  0% {
+    top: 0;
+    /*background-color: #bbceff;*/
+  }
+  10%, 50% {
+    top: 0px;
+     /*background-color: #bbceff;*/
+  }
+  /*30% {
+    top: 110px;
+  }
+  40% {
+    top: 110px;
+     background-color: #bbceff;
+  }
+  50% {
+    top: 110px;
+     background-color: #bbceff;
+  }*/
+  60% {
+    top: 110px;
+     background-color: #bbceff;
+  }
+  70% {
+    top: 110px;
+     background-color: #bbceff;
+  }
+  80%, 90%, 100% {
+    top: 0;
+     /*background-color: #bbceff;*/
+  }
+}
+
+@keyframes rightfoot {
+  0% {
+    top: 0;
+  }
+  10%, 20%, 30% {
+    top: 90px;
+  }
+  40% {
+    top: 110px;
+  }
+  50% {
+    top: 110px;
+  }
+  60% {
+    top: 110px;
+  }
+  70%, 80%, 90%, 100% {
+    top: 0;
+  }
+}
+
+#shing1{
+ 	position: relative;
+ 	border-right: 3px inset #5f93e8;	
+ 	height: 50px;
+ 	border-top-right-radius: 600px;
+  	/*left: -50%;*/
+  	/*top: -50%;*/
+  	margin-right: 100px;
+  	margin-top: -50px;
+ }
+
+ 
+ #shing2{
+ 	position: relative;
+ 	border-left: 3px inset #5f93e8;	
+ 	height: 50px;
+ 	border-top-left-radius: 600px;
+  	/*left: -50%;*/
+  	/*top: -50%;*/
+  	margin-left: 100px;
+  	margin-top: -50px;
+ }
